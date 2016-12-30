@@ -20,6 +20,8 @@
 
 ## Experiences
 ------------------------------------
+* Quicket Security Engineer ( 2016. 11. ~ )
+
 * Penetration Tester ( 2014. 10. ~ 2015. 07. )
 * 차세대 보안리더 양성 프로그램 Best of the Best 4th - TOP 36 ( 2015. 07. ~ 2016. 03. )
 * Reporting ESTSoft ALYac(AntiVirus Software) Vulnerabilities at KISA Bug Bounty Program.
