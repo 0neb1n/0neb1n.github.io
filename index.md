@@ -10,7 +10,7 @@
 ## Skills
 --------------------------------------------------------------------
 * Programming Language : Python, C, C++, Javascript
-* Web Framework : Django
+* Web Framework : Django, Flask
 * Web Server : Apache
 * Database : MySQL
 * tools : Git, Windbg, IDA Pro, Immunity debugger, DynamoRIO, pintool, Qemu
